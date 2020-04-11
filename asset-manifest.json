@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amigo_secreto/static/css/main.c0fe915c.chunk.css",
-    "main.js": "/amigo_secreto/static/js/main.54620187.chunk.js",
-    "main.js.map": "/amigo_secreto/static/js/main.54620187.chunk.js.map",
+    "main.js": "/amigo_secreto/static/js/main.0dcf8854.chunk.js",
+    "main.js.map": "/amigo_secreto/static/js/main.0dcf8854.chunk.js.map",
     "runtime-main.js": "/amigo_secreto/static/js/runtime-main.23bdfd5d.js",
     "runtime-main.js.map": "/amigo_secreto/static/js/runtime-main.23bdfd5d.js.map",
     "static/css/2.de424728.chunk.css": "/amigo_secreto/static/css/2.de424728.chunk.css",
     "static/js/2.f67f9614.chunk.js": "/amigo_secreto/static/js/2.f67f9614.chunk.js",
     "static/js/2.f67f9614.chunk.js.map": "/amigo_secreto/static/js/2.f67f9614.chunk.js.map",
     "index.html": "/amigo_secreto/index.html",
-    "precache-manifest.8015e2f50f48a12d691b03563d97f296.js": "/amigo_secreto/precache-manifest.8015e2f50f48a12d691b03563d97f296.js",
+    "precache-manifest.7e27cc0a458d5fcd1c619ec6947aa9a2.js": "/amigo_secreto/precache-manifest.7e27cc0a458d5fcd1c619ec6947aa9a2.js",
     "service-worker.js": "/amigo_secreto/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/amigo_secreto/static/css/2.de424728.chunk.css.map",
     "static/css/main.c0fe915c.chunk.css.map": "/amigo_secreto/static/css/main.c0fe915c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.f67f9614.chunk.js",
     "static/css/main.c0fe915c.chunk.css",
-    "static/js/main.54620187.chunk.js"
+    "static/js/main.0dcf8854.chunk.js"
   ]
 }
