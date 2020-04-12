@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/amigo_secreto/precache-manifest.76bdfa8c7305b5769aed0001e822e6ee.js"
+  "/amigo_secreto/precache-manifest.4d5d124c7ab3f9c16541b4da0b2da1ae.js"
 );
 
 self.addEventListener('message', (event) => {

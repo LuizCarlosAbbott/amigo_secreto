@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09da4416220ea1ddbdc5e92862add07c",
+    "revision": "56eed01487273ba754f3d5147ea6dd04",
     "url": "/amigo_secreto/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amigo_secreto/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "c076aed14a199aa65008",
+    "revision": "a6d66957e4ec7db0b2e0",
     "url": "/amigo_secreto/static/css/main.c0fe915c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amigo_secreto/static/js/2.94865bb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c076aed14a199aa65008",
-    "url": "/amigo_secreto/static/js/main.9935c698.chunk.js"
+    "revision": "a6d66957e4ec7db0b2e0",
+    "url": "/amigo_secreto/static/js/main.ea4fec48.chunk.js"
   },
   {
     "revision": "033015e6a55e92367736",
