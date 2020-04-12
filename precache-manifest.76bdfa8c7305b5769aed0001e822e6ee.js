@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa7703b19ab5dba2364d6a72d75b819b",
+    "revision": "09da4416220ea1ddbdc5e92862add07c",
     "url": "/amigo_secreto/index.html"
   },
   {
-    "revision": "7ef511b43c33c8515758",
+    "revision": "02b0f5c7abf68221f3a9",
     "url": "/amigo_secreto/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "35cf32d9807ffb180f8e",
+    "revision": "c076aed14a199aa65008",
     "url": "/amigo_secreto/static/css/main.c0fe915c.chunk.css"
   },
   {
-    "revision": "7ef511b43c33c8515758",
-    "url": "/amigo_secreto/static/js/2.a92e4ef6.chunk.js"
+    "revision": "02b0f5c7abf68221f3a9",
+    "url": "/amigo_secreto/static/js/2.94865bb7.chunk.js"
   },
   {
     "revision": "501f379103cbfcb5ff11211dd39a28a2",
-    "url": "/amigo_secreto/static/js/2.a92e4ef6.chunk.js.LICENSE.txt"
+    "url": "/amigo_secreto/static/js/2.94865bb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35cf32d9807ffb180f8e",
-    "url": "/amigo_secreto/static/js/main.22c3f5f1.chunk.js"
+    "revision": "c076aed14a199aa65008",
+    "url": "/amigo_secreto/static/js/main.9935c698.chunk.js"
   },
   {
     "revision": "033015e6a55e92367736",
